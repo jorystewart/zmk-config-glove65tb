@@ -59,9 +59,9 @@ layers:
   - LEFT ALT
   - LEFT META
   - FUN
+  - LEFT CONTROL
   - LEFT SHIFT
   - SPACE
-  - LEFT CONTROL
   - ENTER
   - BACKSPACE
   - {t: numpad, h: toggle}
