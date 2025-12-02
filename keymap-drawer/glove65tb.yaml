@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - \
-  - '`'
+  - LEFT CONTROL
   - A
   - S
   - D
@@ -55,11 +55,11 @@ layers:
   - .
   - /
   - RIGHT SHIFT
-  - LEFT CONTROL
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - LEFT ALT
   - LEFT META
   - FUN
-  - LEFT CONTROL
   - LEFT SHIFT
   - SPACE
   - ENTER
@@ -190,8 +190,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
