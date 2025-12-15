@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - \
-  - LCTRL
+  - Alt+Ctl+LEFT SHIFT
   - A
   - S
   - D
@@ -55,7 +55,7 @@ layers:
   - .
   - /
   - RIGHT SHIFT
-  - Alt+Ctl+LEFT SHIFT
+  - LCTRL
   - MOUSE
   - LEFT ALT
   - LEFT META
